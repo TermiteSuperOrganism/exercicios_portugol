@@ -4,8 +4,6 @@ programa {
     real med
     escreva("Primeira nota: ")
     leia(a)
-    escreva("Primeira nota: ")
-    leia(a)
     escreva("Segunda nota: ")
     leia(b)
     escreva("Terceira nota: ")
