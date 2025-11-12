@@ -2,13 +2,11 @@ programa {
   funcao inicio() {
     cadeia nome
     inteiro decisao
-//    escrever("Seu nome, por favor:\n")
-//    ler(nome)
+    escreva("Seu nome, por favor:\n")
+    leia(nome)
     escreva("****************************************************************\n")
     escreva("*        PROGRAMA ESCOLHER OPÇÃO DE MENU                       *\n")
-    escreva("*        Olá, ")
-    leia(nome)
-    escreva("escolha uma opção                             *\n")
+    escreva("*        Olá, ",nome," escolha uma opção                       *\n")
     escreva("*                                                              *\n")
     escreva("*            1 - Missão                                        *\n")
     escreva("*            2 - Visão                                         *\n")
