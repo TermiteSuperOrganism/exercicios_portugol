@@ -1,7 +1,17 @@
 programa {
   funcao inicio() {
-    real a=5,b=6,c=10,d=9//decidi que seria mais simples declarar no código do que ler 4 valores. Não é o foco do teste
+    real a,b,c,d
     real med
+    escreva("Primeira nota: ")
+    leia(a)
+    escreva("Primeira nota: ")
+    leia(a)
+    escreva("Segunda nota: ")
+    leia(b)
+    escreva("Terceira nota: ")
+    leia(c)
+    escreva("Quarta nota: ")
+    leia(d)
     med=(a+b+c+d)/4
     escreva("A média é ",med)
   }
