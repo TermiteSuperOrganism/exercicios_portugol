@@ -8,7 +8,7 @@ programa {
     escreva("*        PROGRAMA ESCOLHER OPÇÃO DE MENU                       *\n")
     escreva("*        Olá, ")
     leia(nome)
-    escreva("escolha uma opção                              \n")
+    escreva("escolha uma opção                             *\n")
     escreva("*                                                              *\n")
     escreva("*            1 - Missão                                        *\n")
     escreva("*            2 - Visão                                         *\n")
