@@ -3,7 +3,7 @@ programa {
     inteiro x,res
     escreva("Forneça um número:\n")
     leia(x)
-    se(x%2){
+    se(x%2==1){
       res=x+8
     }
     senao{
