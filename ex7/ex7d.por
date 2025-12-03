@@ -11,10 +11,10 @@ programa {
         }
       }
       se (y==x){
-        escreva(x,"é primo\n")
+        escreva(x," é primo\n")
       }
       senao{
-        escreva(x,"não é primo\n")
+        escreva(x," não é primo\n")
       }
     }
   }
