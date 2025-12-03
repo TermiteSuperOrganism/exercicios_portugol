@@ -14,7 +14,7 @@ programa {
         escreva(x,"é primo\n")
       }
       senao{
-        escreva(x,"naõ é primo\n")
+        escreva(x,"não é primo\n")
       }
     }
   }
